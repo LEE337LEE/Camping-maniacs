@@ -1,0 +1,31 @@
+#camping {
+    background-color: #333; 
+    position: fixed; 
+    top: -50px; 
+    width: 100%;
+    transition: top 0.3s;}
+
+#camping a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  #camping a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  body {
+    margin: 0;
+    background-color:gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    padding:15px 15px 2500px;
+    font-size:20px;
+    padding-top: 25px;
+    }
+ 
+    
